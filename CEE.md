@@ -8,8 +8,6 @@ It shares the common actions that led to the effort's success, as well as things
 
 [How to Build Your Cloud Enablement Engine with the People You Already Have.](https://www.youtube.com/watch?v=k5jjRPgw_so)
 
-![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
 ## Establishing CEE
 
 **Key goal**: transforming the IT organisation from an on-premise operating model to a Cloud Operating Model.
